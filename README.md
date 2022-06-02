@@ -1,1 +1,1 @@
-# school_registration_portal
+# school_management
